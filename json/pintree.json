@@ -3581,6 +3581,139 @@
           }
         ]
       }
+      {
+        "type": "folder",
+        "addDate": 1730866459569,
+        "title": "VPS",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1703822527203,
+            "title": "RackNerd",
+            "icon": "https://logo.clearbit.com/my.racknerd.com",
+            "url": "https://my.racknerd.com/clientarea.php?action=productdetails&id=300353"
+          },
+          {
+            "type": "link",
+            "addDate": 1703814239657,
+            "title": "Control Panel",
+            "icon": "https://logo.clearbit.com/nerdvm.racknerd.com",
+            "url": "https://nerdvm.racknerd.com/control.php?_v=x2333444u2q2n2h594c4t2h5"
+          },
+          {
+            "type": "link",
+            "addDate": 1713191878274,
+            "title": "BandwagonHost VPS",
+            "icon": "https://logo.clearbit.com/bwh89.net",
+            "url": "https://bwh89.net/index.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1718589070186,
+            "title": "SERV00",
+            "icon": "https://logo.clearbit.com/panel13.serv00.com",
+            "url": "https://panel13.serv00.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724918260177,
+            "title": "Duo-Taiwan",
+            "icon": "https://logo.clearbit.com/panel.duocloud.net",
+            "url": "https://panel.duocloud.net/server/2498bc2b-4853-46f8-8fda-529b50b9c38b"
+          },
+          {
+            "type": "link",
+            "addDate": 1724918242453,
+            "title": "DuoDuoCloud",
+            "icon": "https://logo.clearbit.com/duocloud.net",
+            "url": "https://duocloud.net/clientarea.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1703814065841,
+            "title": "namesilo",
+            "icon": "https://logo.clearbit.com/www.namesilo.com",
+            "url": "https://www.namesilo.com/account/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726405741252,
+            "title": "US.KG Panel",
+            "icon": "https://logo.clearbit.com/register.us.kg",
+            "url": "https://register.us.kg/panel/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1730221421207,
+            "title": "H2NEXUS",
+            "icon": "https://logo.clearbit.com/my.h2.nexus",
+            "url": "https://my.h2.nexus/billmgr#/?func=dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1730945718404,
+            "title": "Cloud Servers — CLOUDCONE",
+            "icon": "https://logo.clearbit.com/app.cloudcone.com",
+            "url": "https://app.cloudcone.com/cloud"
+          },
+          {
+            "type": "link",
+            "addDate": 1730528093343,
+            "title": "Spaceship",
+            "icon": "https://logo.clearbit.com/www.spaceship.com",
+            "url": "https://www.spaceship.com/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730686331148,
+            "title": "Sitelutions",
+            "icon": "https://logo.clearbit.com/www.sitelutions.com",
+            "url": "https://www.sitelutions.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730687827463,
+            "title": "aiss.rr.nu",
+            "icon": "https://logo.clearbit.com/hostry.com",
+            "url": "https://hostry.com/orders/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730788390477,
+            "title": "xiaoshengbaozi.v6.army",
+            "icon": "https://logo.clearbit.com/dynv6.com",
+            "url": "https://dynv6.com/zones/4477873/records"
+          },
+          {
+            "type": "link",
+            "addDate": 1731029444750,
+            "title": "Proxysite 免费代理",
+            "icon": "https://logo.clearbit.com/www.lumiproxy.com",
+            "url": "https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731080652313,
+            "title": "Ducky Cloud",
+            "icon": "https://logo.clearbit.com/dash.duckyci.com",
+            "url": "https://dash.duckyci.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731587873265,
+            "title": "LeanCloud",
+            "icon": "https://logo.clearbit.com/console.leancloud.app",
+            "url": "https://console.leancloud.app/apps"
+          },
+          {
+            "type": "link",
+            "addDate": 1731931886725,
+            "title": "ClawCloud",
+            "icon": "https://logo.clearbit.com/claw.cloud",
+            "url": "https://claw.cloud/"
+          }
+        ]
+      },
     ]
   }
 ]
